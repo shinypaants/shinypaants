@@ -1,5 +1,5 @@
 - 👋 Hi, I’m James Chpman
-- 👀 I’m interested in JavaSript Frameworks, Python and Front-end Development
+- 👀 I’m interested in JavaSript Frameworks, Python, TypeScript, C++, GraphQL, Node.js and Full Stack Development.
 - 🌱 I’m currently learning C++ in University, on the side am learning about React and AI.
 
 <!---
